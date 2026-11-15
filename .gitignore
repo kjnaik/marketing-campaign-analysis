@@ -1,0 +1,16 @@
+# Environment
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets / local DB
+*.db
+*.sqlite
+config.ini
