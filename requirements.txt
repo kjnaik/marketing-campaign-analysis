@@ -8,3 +8,5 @@ sqlalchemy
 pymysql
 jupyter
 openpyxl
+python-dotenv
+cryptography
